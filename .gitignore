@@ -140,7 +140,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
-/data
+/data/stanford_cars/test
+/data/stanford_cars/train
 
 # mypy
 .mypy_cache/
